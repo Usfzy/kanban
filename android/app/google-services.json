@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196595652794",
+    "project_id": "kanban-bb248",
+    "storage_bucket": "kanban-bb248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196595652794:android:3a2b28e266ed42667dca83",
+        "android_client_info": {
+          "package_name": "com.kanban.app.kanban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196595652794-tt4eaf2r043e7an7ial8aj7uedfueqh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfKrrecXAtEJdwbqgX7x_xmFm9pCUAWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196595652794-tt4eaf2r043e7an7ial8aj7uedfueqh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
